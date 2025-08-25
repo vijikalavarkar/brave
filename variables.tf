@@ -27,5 +27,15 @@ variable "route_table_tag" {}
 # Security Groups
 variable "security_group_tag" {}
 
+# AMI
+variable "ami_id" {}
+variable "instance_type" {}
+variable "key_name" {}
 
+variable "instance_tag" {}
+
+# DynamoDB
+variable "dynamodb_table_name" {}
+variable "billing_mode" {}
+variable "hash_key" {}
 
