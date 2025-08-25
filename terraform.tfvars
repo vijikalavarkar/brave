@@ -28,5 +28,3 @@ route_table_tag  = "brave_public_route_table"
 # Security Groups
 security_group_tag = "brave_security_group"
 
-# Tester
-tester_internet_gateway_tag = "tester_internet_gateway"
