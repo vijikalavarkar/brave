@@ -26,3 +26,7 @@ variable "route_table_tag" {}
 
 # Security Groups
 variable "security_group_tag" {}
+
+# Tester
+variable "tester_internet_gateway_tag" {}
+
